@@ -1,0 +1,5 @@
+PGHOST=host.docker.internal
+PGPORT=5432
+PGDATABASE=iset
+PGUSER=postgres
+PGPASSWORD=achref
